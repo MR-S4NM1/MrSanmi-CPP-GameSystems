@@ -1,0 +1,5 @@
+﻿  BattleManager.cpp
+  Main.cpp
+C:\ECS_MrSanmi\ECS_MrSanmi\ECS_MrSanmi\Main.cpp(265,24): warning C4267: 'inicializando': conversión de 'size_t' a 'int'; posible pérdida de datos
+  Generando código...
+  ECS_MrSanmi.vcxproj -> C:\ECS_MrSanmi\ECS_MrSanmi\x64\Debug\ECS_MrSanmi.exe

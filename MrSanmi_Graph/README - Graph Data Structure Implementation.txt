@@ -136,11 +136,11 @@ Performance Characteristics
 
 | Operation 	| Time Complexity | Space Complexity |
 
-| BFS Traversal | O(V + E) 	  | O(V) |
-| DFS Traversal | O(V + E) 	  | O(V) |
-| Node Insertion| O(V + E) 	  | O(1) |
-| Node Deletion | O(V + E) 	  | O(1) |
-| Parent Swap 	| O(V + E) 	  | O(1) |
+| BFS Traversal |     O(V + E) 	  |        O(V)      |
+| DFS Traversal |     O(V + E) 	  |        O(V)      |
+| Node Insertion|     O(V + E) 	  |        O(1)      |
+| Node Deletion |     O(V + E) 	  |        O(1)      |
+| Parent Swap 	|     O(V + E) 	  |        O(1)      |
 
 ---
 
@@ -198,6 +198,7 @@ Final Notes
 This project represents a complete graph data structure implementation emphasizing:
 
 - Algorithmic Excellence - professional BFS and DFS implementations
-- Memory Safety** - robust resource management in classic C++
+- Memory Safety - robust resource management in classic C++
 - Software Engineering - clean architecture and extensible design
+
 - Documentation Quality - professional-grade comments and examples

@@ -39,7 +39,7 @@ Battle Flow & FSM
 Skill System (Command Pattern)
 
 - Each skill is represented as an independent object encapsulating its logic through lambdas.
-- Includes a Skill Factory** to generate predefined actions:
+- Includes a Skill Factory to generate predefined actions:
 
   - Basic Attack – physical damage based on attack and defense.
   - Heal – restores health using a mana cost.
@@ -66,8 +66,8 @@ Design Patterns Used
 - Facade Pattern – BattleManager simplifies interaction between systems.
 - Command Pattern – each Skill encapsulates its execution logic.
 - Factory Method – centralizes skill creation and balancing.
-- Finite State Machine (FSM)** – for structured battle flow.
-- Event System (Observer Pattern)** – for decoupled updates between systems.
+- Finite State Machine (FSM) – for structured battle flow.
+- Event System (Observer Pattern) – for decoupled updates between systems.
 
 ---
 
